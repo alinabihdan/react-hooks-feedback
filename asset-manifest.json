@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/react-hooks-feedback/static/css/main.ad0f1c6c.chunk.css",
+    "main.js": "/react-hooks-feedback/static/js/main.c959b975.chunk.js",
+    "main.js.map": "/react-hooks-feedback/static/js/main.c959b975.chunk.js.map",
+    "runtime-main.js": "/react-hooks-feedback/static/js/runtime-main.914ebef7.js",
+    "runtime-main.js.map": "/react-hooks-feedback/static/js/runtime-main.914ebef7.js.map",
+    "static/css/2.bc922b9c.chunk.css": "/react-hooks-feedback/static/css/2.bc922b9c.chunk.css",
+    "static/js/2.8c74bff9.chunk.js": "/react-hooks-feedback/static/js/2.8c74bff9.chunk.js",
+    "static/js/2.8c74bff9.chunk.js.map": "/react-hooks-feedback/static/js/2.8c74bff9.chunk.js.map",
+    "index.html": "/react-hooks-feedback/index.html",
+    "static/css/2.bc922b9c.chunk.css.map": "/react-hooks-feedback/static/css/2.bc922b9c.chunk.css.map",
+    "static/css/main.ad0f1c6c.chunk.css.map": "/react-hooks-feedback/static/css/main.ad0f1c6c.chunk.css.map",
+    "static/js/2.8c74bff9.chunk.js.LICENSE.txt": "/react-hooks-feedback/static/js/2.8c74bff9.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.914ebef7.js",
+    "static/css/2.bc922b9c.chunk.css",
+    "static/js/2.8c74bff9.chunk.js",
+    "static/css/main.ad0f1c6c.chunk.css",
+    "static/js/main.c959b975.chunk.js"
+  ]
+}
